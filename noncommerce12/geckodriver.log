@@ -1,0 +1,24 @@
+1623301695082	geckodriver	INFO	Listening on 127.0.0.1:53760
+1623301698105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\parid\\AppData\\Local\\Temp\\rust_mozprofile6LaKyR"
+1623301702099	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\parid\\AppData\\Local\\Temp\\rust_mozprofile6LaKyR\\search.json.mozlz4", (void 0)))
+1623301713062	Marionette	INFO	Listening on port 53768
+1623301713337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623301719088	Marionette	INFO	Stopped listening on port 53768
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623301721101	geckodriver	INFO	Listening on 127.0.0.1:53824
+1623301724098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\parid\\AppData\\Local\\Temp\\rust_mozprofileBwuF8k"
+1623301725782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\parid\\AppData\\Local\\Temp\\rust_mozprofileBwuF8k\\search.json.mozlz4", (void 0)))
+[Parent 14548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623301731065	Marionette	INFO	Listening on port 53832
+1623301731539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623301743745	Marionette	INFO	Stopped listening on port 53832
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 14548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

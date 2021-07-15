@@ -1,0 +1,118 @@
+2021-06-12 14:28:26:INFO:************ Test_002_DDT_Login ************:
+2021-06-12 14:28:26:INFO:************ Login Page DDT validation ************:
+2021-06-12 14:28:45:INFO:************ Login Page Title verified ************:
+2021-06-12 14:29:01:INFO:************ Login Page not displayed ************:
+2021-06-12 14:29:14:INFO:************ Login Page not displayed ************:
+2021-06-12 14:29:26:INFO:************ Login Page not displayed ************:
+2021-06-12 14:30:53:INFO:************ Test_002_DDT_Login ************:
+2021-06-12 14:30:53:INFO:************ Login Page DDT validation ************:
+2021-06-12 14:31:18:INFO:************ Login Page Title verified ************:
+2021-06-12 14:31:23:INFO:DDT Test is Passed:
+2021-06-12 14:31:36:INFO:************ Login Page not displayed ************:
+2021-06-12 14:31:36:INFO:DDT Test is Passed:
+2021-06-12 14:31:48:INFO:************ Login Page not displayed ************:
+2021-06-12 14:31:48:INFO:DDT Test is Passed:
+2021-06-12 14:32:02:INFO:************ Login Page not displayed ************:
+2021-06-12 14:32:02:INFO:DDT Test is Passed:
+2021-06-12 14:44:43:INFO:************ Test_002_DDT_Login ************:
+2021-06-12 14:44:43:INFO:************ Login Page DDT validation ************:
+2021-06-12 14:45:03:INFO:************ Login Page Title verified ************:
+2021-06-12 14:45:07:INFO:************* DDT Test is Passed ***************:
+2021-06-12 14:45:18:INFO:************ Login Page not displayed ************:
+2021-06-12 14:45:18:INFO:************* DDT Test is Passed ***************:
+2021-06-12 14:45:31:INFO:************ Login Page not displayed ************:
+2021-06-12 14:45:31:INFO:************* DDT Test is Passed ***************:
+2021-06-12 14:45:44:INFO:************ Login Page not displayed ************:
+2021-06-12 14:45:44:INFO:************* DDT Test is Passed ***************:
+2021-06-12 14:51:52:INFO:************ Test_002_DDT_Login ************:
+2021-06-12 14:51:52:INFO:************ Login Page DDT validation ************:
+2021-06-12 14:52:16:INFO:************ Login Page Title verified ************:
+2021-06-12 14:52:20:INFO:************* DDT Test is Passed ***************:
+2021-06-12 14:52:33:INFO:************ Login Page not displayed ************:
+2021-06-12 14:52:33:INFO:************* DDT Test is Passed ***************:
+2021-06-12 14:52:46:INFO:************ Login Page not displayed ************:
+2021-06-12 14:52:46:INFO:************* DDT Test is Passed ***************:
+2021-06-12 14:52:57:INFO:************ Login Page not displayed ************:
+2021-06-12 14:52:57:INFO:************* DDT Test is Passed ***************:
+2021-06-13 18:26:18:INFO:************ Test_001_Login ************:
+2021-06-13 18:26:19:INFO:************ verify Home Page title ************:
+2021-06-13 18:26:33:INFO:************ Home page title Tcs is passed ************:
+2021-06-13 18:26:34:INFO:************ Test_001_Login ************:
+2021-06-13 18:26:34:INFO:************ Login Page validation ************:
+2021-06-13 18:27:00:INFO:************ Login Page Title verified ************:
+2021-06-13 22:38:07:INFO:************ Test_002_DDT_Login ************:
+2021-06-13 22:38:07:INFO:************ Login Page DDT validation ************:
+2021-06-13 22:38:29:INFO:************ Login Page Title verified ************:
+2021-06-13 22:38:32:INFO:************* DDT Test is Passed ***************:
+2021-06-13 22:38:47:INFO:************ Login Page not displayed ************:
+2021-06-13 22:38:47:INFO:************* DDT Test is Passed ***************:
+2021-06-13 22:39:02:INFO:************ Login Page not displayed ************:
+2021-06-13 22:39:02:INFO:************* DDT Test is Passed ***************:
+2021-06-13 22:39:15:INFO:************ Login Page not displayed ************:
+2021-06-13 22:39:15:INFO:************* DDT Test is Passed ***************:
+2021-06-13 22:42:24:INFO:************ Test_001_Login ************:
+2021-06-13 22:42:24:INFO:************ verify Home Page title ************:
+2021-06-13 22:44:49:INFO:************ Test_001_Login ************:
+2021-06-13 22:44:49:INFO:************ verify Home Page title ************:
+2021-06-13 22:46:02:INFO:************ Test_001_Login ************:
+2021-06-13 22:46:02:INFO:************ verify Home Page title ************:
+2021-06-13 22:47:18:INFO:************ Test_001_Login ************:
+2021-06-13 22:47:18:INFO:************ verify Home Page title ************:
+2021-06-13 22:48:22:INFO:************ Test_001_Login ************:
+2021-06-13 22:48:22:INFO:************ verify Home Page title ************:
+2021-06-13 23:02:58:INFO:************ Test_001_Login ************:
+2021-06-13 23:02:58:INFO:************ verify Home Page title ************:
+2021-06-13 23:12:18:INFO:************ Test_001_Login ************:
+2021-06-13 23:12:18:INFO:************ verify Home Page title ************:
+2021-06-13 23:16:27:INFO:************ Test_001_Login ************:
+2021-06-13 23:16:27:INFO:************ verify Home Page title ************:
+2021-06-13 23:28:26:INFO:************ Test_001_Login ************:
+2021-06-13 23:28:26:INFO:************ verify Home Page title ************:
+2021-06-13 23:29:06:INFO:************ Test_001_Login ************:
+2021-06-13 23:29:06:INFO:************ verify Home Page title ************:
+2021-06-13 23:37:04:INFO:************ Test_001_Login ************:
+2021-06-13 23:37:04:INFO:************ verify Home Page title ************:
+2021-06-13 23:39:16:INFO:************ Test_001_Login ************:
+2021-06-13 23:39:16:INFO:************ verify Home Page title ************:
+2021-06-13 23:42:02:INFO:************ Test_001_Login ************:
+2021-06-13 23:42:02:INFO:************ verify Home Page title ************:
+2021-06-13 23:44:16:INFO:************ Test_001_Login ************:
+2021-06-13 23:44:16:INFO:************ verify Home Page title ************:
+2021-06-13 23:46:42:INFO:************ Test_001_Login ************:
+2021-06-13 23:46:42:INFO:************ verify Home Page title ************:
+2021-06-13 23:52:05:INFO:************ Test_001_Login ************:
+2021-06-13 23:52:05:INFO:************ verify Home Page title ************:
+2021-06-13 23:55:04:INFO:************ Test_001_Login ************:
+2021-06-13 23:55:04:INFO:************ verify Home Page title ************:
+2021-06-13 23:56:14:INFO:************ Test_001_Login ************:
+2021-06-13 23:56:14:INFO:************ verify Home Page title ************:
+2021-06-23 11:11:27:INFO:************ Test_001_AddCustomer ************:
+2021-06-23 11:11:27:INFO:************ Search Customer details ************:
+2021-06-24 21:08:20:INFO:************ Test_001_AddCustomer ************:
+2021-06-24 21:08:20:INFO:************ Search Customer details ************:
+2021-06-24 21:09:01:INFO:************ Email ID searched successfully ************:
+2021-07-06 12:40:58:INFO:************ Test_001_AddCustomer ************:
+2021-07-06 12:40:58:INFO:************ Search Customer details ************:
+2021-07-06 12:42:06:INFO:************ Email ID searched successfully ************:
+2021-07-06 13:01:45:INFO:************ Test_001_AddCustomer ************:
+2021-07-06 13:01:45:INFO:************ Adding New Customer details ************:
+2021-07-06 13:02:26:INFO:************ started feeding data for new customer ************:
+2021-07-06 13:02:54:INFO:************ saving customer details ************:
+2021-07-06 13:03:00:INFO:************ Test_001_AddCustomer ************:
+2021-07-06 13:03:00:INFO:************ Search Customer details ************:
+2021-07-06 13:03:47:INFO:************ Email ID searched successfully ************:
+2021-07-06 13:03:52:INFO:************ Test_001_Login ************:
+2021-07-06 13:03:52:INFO:************ verify Home Page title ************:
+2021-07-06 13:03:57:INFO:************ Home page title Tcs is passed ************:
+2021-07-06 13:30:52:INFO:************ Test_001_AddCustomer ************:
+2021-07-06 13:30:52:INFO:************ Adding New Customer details ************:
+2021-07-06 13:31:27:INFO:************ Test_001_AddCustomer ************:
+2021-07-06 13:31:27:INFO:************ Search Customer details ************:
+2021-07-06 13:32:10:INFO:************ Email ID searched successfully ************:
+2021-07-06 13:32:15:INFO:************ Test_001_Login ************:
+2021-07-06 13:32:15:INFO:************ verify Home Page title ************:
+2021-07-06 13:32:27:INFO:************ Home page title Tcs is passed ************:
+2021-07-15 00:33:57:INFO:************ Test_001_AddCustomer ************:
+2021-07-15 00:33:57:INFO:************ Adding New Customer details ************:
+2021-07-15 00:34:17:INFO:************ started feeding data for new customer ************:
+2021-07-15 00:34:42:INFO:************ saving customer details ************:
